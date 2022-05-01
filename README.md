@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eton-Hu
-- 👀 I’m interested in automatic driving
-- 🌱 I’m currently learning Deep learning
+- 👀 I’m interested in AI, CV, automatic driving and etc.
+- 🌱 I’m currently learning Deep learning and CV
 //- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yitong.hu@outlook.com
 
